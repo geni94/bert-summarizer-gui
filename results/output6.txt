@@ -1,0 +1,14 @@
+Whether
+it’s taking a ride in Uber or Lyft, adjusting the lights in
+your home with your Alexa, or sharing that family video on
+Facebook, we’re creating data at an accelerating rate every day. At DZone.com,
+our Database Zone has been growing steadily, fueled by a
+resurgence of interest in relational databases, the emergence
+of SQL layers on other types of data stores, and the need to
+manage your databases like you manage the other parts of
+your infrastructure. Traditionally, changes to database technology have come
+slowly compared to the other components of modern web
+development. To be sure, the increase
+in adoption of DevOps practices has also had a significant
+impact on the pace at which databases and database
+technology evolve.

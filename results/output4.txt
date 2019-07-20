@@ -1,0 +1,6 @@
+Everything we do today generates more of it. Whether it’s taking a ride in Uber or Lyft, adjusting the lights in your home with your Alexa, or sharing that family video on Facebook, we’re creating data at an accelerating rate every day. Traditionally, changes to database technology have come
+slowly compared to the other components of modern web
+development. To be sure, the increase
+in adoption of DevOps practices has also had a significant
+impact on the pace at which databases and database
+technology evolve.
